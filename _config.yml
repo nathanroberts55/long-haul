@@ -24,7 +24,7 @@ social:
   twitter: naterobertstech
   linkedin: naterobertstech
 
-google_analytics: "UA-58263416-1"
+google_analytics:
 
 disqus:
     shortname: my-disqus-shortname
