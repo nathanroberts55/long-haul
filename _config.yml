@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Nate Roberts Tech
+description: Blog where I write about my projects, studies, and anything else tech related I find interesting
 
-url: http://nathanroberts55.github.com/long-haul
+url: https://nathanroberts55.github.io/long-haul/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -20,11 +20,9 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  github: nathanroberts55
+  twitter: naterobertstech
+  linkedin: naterobertstech
 
 google_analytics: "UA-58263416-1"
 
