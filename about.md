@@ -1,24 +1,26 @@
 ---
 layout: default
-title: About Long Haul
+title: About Nate Roberts
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
+	<h1 class="pageTitle">About Nate Roberts</h1>
+	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="Computer Setup Stock Image">
+	<p class="intro">Nate Roberts Tech is a blog where I write about my projects, studies, and anything else tech related I find interesting</p>
+	<p>I am a college graduate with a bachelors in Information Systems and minors in Computer Science and Leadership Studies. I am a member of my local chapters of IEEE, (ISC)<sup>2</sup>, National Society of Black Engineers, and Association of Information Systems. Professionally I have experience as a IT intern, system administrator, and IT consultant. On the side, I also participate in CTF's, continuous learning, and freelance web development. To see more of the things I'm working on/interested in daily, check out my <a href="https://twitter.com/naterobertstech">Twitter</a>. For more of my work experience, connect with me on <a href="https://www.linkedin.com/in/naterobertstech/">LinkedIn</a>.</p>
+	<h3>Certifications</h3>
 	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
+		<li>ServiceNow Certified Systems Administrator</li>
+		<li>AWS Certified Cloud Practitioner</li>
+		<li>FreeCodeCamp Responsive Web Design Certificate</li>
+		<li>CompTIA Security+ <small>(Pursuing)</small></li>
+		<li>AWS Certified Solutions Architect Associate <small>(Pursuing)</small></li>
+	</ul>
+	<h3>Areas of Interest</h3>
+	<ul>
+		<li>Cyber Security</li>
+		<li>Information Security</li>
+		<li>Software Development</li>
+		<li>Web Development</li>
+	</ul>
 </div>
