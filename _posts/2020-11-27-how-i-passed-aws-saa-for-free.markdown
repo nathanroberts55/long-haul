@@ -15,7 +15,7 @@ The AWS Certified Solutions Architect Associate (SAA) Exam is an intermediate le
  
 I have a little over a year’s worth of experience working with AWS tools before taking this exam. During a few academic projects, I had worked with the AWS Console, EC2, Elastic Beanstalk, Security Groups. I also completed the AWS Cloud Practitioner in July. That certification gave me a good introduction to cloud computing and the AWS ecosystem of products, services, and tools. If you are brand new to cloud infrastructure, I would highly recommend starting with the CCP, despite it not being a prerequisite for this exam. Otherwise, I had some non-AWS specific knowledge like the Linux command line, using SSH, and SFTP (PuTTY). 
  
-### AWS CCP Course
+### AWS SAA Course
  
 There are many different vendors with which you can train to prepare to take the AWS Solutions Architect Associate course. In preparation for this exam, I went through two separate courses. One of which is the AWS Certified Solutions Architect - Associate Video Course taught by Chad Smith through the O’Reilly Learning Online. The other being the “AWS Certified Solutions Architect - Associate 2020” provided by FreeCodeCamp and taught by Austin Brown of ExamPro. After taking both I have come up with a few pros and cons of each.
  
@@ -25,7 +25,7 @@ FreeCodeCamp’s AWS SAA course is a 10-hour course available for free on Youtub
  
 So, I would suggest for those that are more seasoned in AWS and have a good grasp over the materials that were tested in the cloud practitioner to use the Chad Smith course. However, for those that want an up to date and beginner-friendly approach to the exam (especially if you plan to skip the CCP) to use the FreeCodeCamp Course.
  
-### AWS CCP Exam
+### AWS SAA Exam
  
 Once you have completed the course and are prepared the exam is straightforward. The exam differs from the cloud practitioner in the fact that it is less about knowing the tools as it is about knowing the best application of the tools. Meaning, the CCP asks questions catered to your knowledge of the tool itself. An example of a CCP type question would be “One benefit of On-Demand Amazon Elastic Compute Cloud (Amazon EC2) pricing is?”. Whereas the SAA is aimed at testing your application of the product. An example of an SAA type question would be, “Your team is developing a high-performance computing (HPC) application. The application resolves complex, compute-intensive problems and needs a high-performance and low-latency Lustre file system. You need to configure this file system in AWS at a low cost. Which method is the most suitable?”.
  
