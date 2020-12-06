@@ -11,16 +11,17 @@ title: About Nate Roberts
 	<h3>Certifications</h3>
 	<ul>
 		<li>ServiceNow Certified Systems Administrator</li>
+		<li>AWS Certified Solutions Architect Associate</li>
 		<li>AWS Certified Cloud Practitioner</li>
 		<li>FreeCodeCamp Responsive Web Design Certificate</li>
 		<li>CompTIA Security+ <small>(Pursuing)</small></li>
-		<li>AWS Certified Solutions Architect Associate <small>(Pursuing)</small></li>
 	</ul>
 	<h3>Areas of Interest</h3>
 	<ul>
 		<li>Cyber Security</li>
 		<li>Information Security</li>
-		<li>Software Development</li>
+		<li>Penetration Testing</li>
+		<li>System/Software Development</li>
 		<li>Web Development</li>
 	</ul>
 </div>
