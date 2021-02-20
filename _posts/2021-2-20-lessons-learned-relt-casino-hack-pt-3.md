@@ -5,7 +5,8 @@ date:   2021-2-20
 comments: true
 ---
 
-Within the last year, I was introduced to the SANS Institute free live webinars they provide. Fortunately, they post these informative sessions on YouTube for people like me to enjoy after they are over. And yesterday, I was especially drawn to a webinar titled “Feeble Security Culture Disconnected from Business Objectives Webinar” in their Transformational Cybersecurity Leader series. It wasn’t the usual technical topic I usually would attend, but I learned an important and timely lesson.
+<p class="intro"><span class="dropcap">W</span>ithin the last year, I was introduced to the SANS Institute free live webinars they provide. Fortunately, they post these informative sessions on YouTube for people like me to enjoy after they are over. And yesterday, I was especially drawn to a webinar titled “Feeble Security Culture Disconnected from Business Objectives Webinar” in their Transformational Cybersecurity Leader series. It wasn’t the usual technical topic I usually would attend, but I learned an important and timely lesson.
+</p>
 
 ### Background
 
@@ -37,7 +38,7 @@ At the beginning of the webinar, Spitzner called out a common phrase in the secu
 
 As a technical security member, I think this was an important lesson to learn. After attending this webinar, it showed me the importance of fostering a strong security culture that encourages and promotes the idea that security is everyone's job. I also learned that to get buy-in, security needs to be digestible and personal to members. This communication must be in terms that everyone can understand (not just technical jargon) and applying it to their situations. 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Join us for our 4 part series based on the NEW Transformational Cybersecurity Leader Triad. <br><br>Part 1 - archive: <a href="https://t.co/3fNLOFEo0L">https://t.co/3fNLOFEo0L</a><br>Part 2 - archive: <a href="https://t.co/mlGKItbGLK">https://t.co/mlGKItbGLK</a><br>Part 3 - archive: <a href="https://t.co/58MyVL6ESd">https://t.co/58MyVL6ESd</a><br>Part 4: <a href="https://t.co/GYYMF8dZSZ">https://t.co/GYYMF8dZSZ</a> <a href="https://t.co/L7zFAnmdLu">pic.twitter.com/L7zFAnmdLu</a></p>&mdash; SANS Institute (@SANSInstitute) <a href="https://twitter.com/SANSInstitute/status/1363159012569669640?ref_src=twsrc%5Etfw">February 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Join us for our 4 part series based on the NEW Transformational Cybersecurity Leader Triad. <br><br>Part 1 - archive: <a href="https://t.co/3fNLOFEo0L">https://t.co/3fNLOFEo0L</a><br>Part 2 - archive: <a href="https://t.co/mlGKItbGLK">https://t.co/mlGKItbGLK</a><br>Part 3 - archive: <a href="https://t.co/58MyVL6ESd">https://t.co/58MyVL6ESd</a><br>Part 4: <a href="https://t.co/GYYMF8dZSZ">https://t.co/GYYMF8dZSZ</a> <a href="https://t.co/L7zFAnmdLu">pic.twitter.com/L7zFAnmdLu</a></p>&mdash; SANS Institute (@SANSInstitute) <a href="https://twitter.com/SANSInstitute/status/1363159012569669640?ref_src=twsrc%5Etfw">February 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 This series was a fantastic so far, and I'm excited to see the last installment on Wednesday, Feb. 24th at 12 PM EST for anyone wondering if you would like to see the previous lessons in the [SANS Cybersecurity Leadership - Transformational Cybersecurity Leader Triad Series] (https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bio1vV47Jalr8OBhrLX3Jk) playlist feel free to check it out!
 
