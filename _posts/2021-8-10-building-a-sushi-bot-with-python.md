@@ -55,4 +55,8 @@ Finally, I have had several friends mention that making this bot more robust wou
 
 ### Conclusion
 
-I had a wonderful time planning and developing this bot that helped automate a tradition that has grown near and dear to my heart. It also was a great exercise in python, which I love more and more as I spend time learning about every day. As always, I appreciate you for taking the time to read about my discoveries and learning in my tech journey! If you want more visibility into my day-to-day learning follow me on [Twitter](https://twitter.com/naterobertstech) or reach out to me directly using the [Contact Page](https://naterobertstech.com/contact/).
+I had a wonderful time planning and developing this bot that helped automate a tradition that has grown near and dear to my heart. It also was a great exercise in python, which I love more and more as I spend time learning about every day. 
+
+If you would like to see the code for the bot, visit my GitHub for the [Sushi Bot](https://github.com/nathanroberts55/sushi_bot)
+
+As always, I appreciate you for taking the time to read about my discoveries and learning in my tech journey! If you want more visibility into my day-to-day learning follow me on [Twitter](https://twitter.com/naterobertstech) or reach out to me directly using the [Contact Page](https://naterobertstech.com/contact/).
