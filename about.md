@@ -10,6 +10,7 @@ title: About Nate Roberts
 	<p>I am a college graduate with a bachelors in Information Systems and minors in Computer Science and Leadership Studies. I am a member of my local chapters of IEEE, (ISC)<sup>2</sup>, National Society of Black Engineers, and Association of Information Systems. Professionally I have experience as a software developer, system administrator, and IT consultant. On the side, I also participate in CTF's, continuous learning, and freelance web development. To see more of the things I'm working on/interested in daily, check out my <a href="https://twitter.com/naterobertstech">Twitter</a>. For more of my work experience, connect with me on <a href="https://www.linkedin.com/in/naterobertstech/">LinkedIn</a>.</p>
 	<h3>Certifications</h3>
 	<ul>
+		<li>Microsoft Certified: Power Platform Fundamentals</li>
 		<li>AWS Certified Solutions Architect Associate</li>
 		<li>AWS Certified Cloud Practitioner</li>
 		<li>Scaled Agile Certified SAFe® 5 Practitioner</li>
