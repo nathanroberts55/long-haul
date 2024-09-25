@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "How to Pass Microsoft Power Platform Fundamentals Exam (PL-900) for FREE"
+author: "Nate Roberts"
 date:   2021-10-2
 comments: true
+description: "How I passed the Microsoft Power Platform Fundamentals Exam (PL-900) for free! This guide compiles all the resources I used, including free training options, practice exams, and tips to help you succeed without breaking the bank."
+image: "pl-900badge.jpg"
 ---
 
 <p class="intro"><span class="dropcap">A</span>s always, I’m trying to keep learning and doing it for essentially no cost to me. Fortunately, the cloud is a great place for entry-level professionals who are on a tight “budget”. So, I recently got my first Azure-based certification and did it all in essence for free (paid for one part, but that’s optional). Here, I’ll compile all the resources I used to pass the exam.</p>

@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "5 Things I Learned from Reading Dawn of the Code War by John P. Carlin"
+author: "Nate Roberts"
 date:   2021-1-23
 comments: true
+description: "I read ‘Dawn of the Code War’ by John P. Carlin and learned five crucial lessons about cybersecurity, including the importance of security culture, reputation, legislation, cooperation, and the future of the internet."
+image: "dotcw.jpg"
 ---
 
 <p class="intro"><span class="dropcap">I</span>n my continuing journey to learn more about cybersecurity, I reached out to some colleagues and other resources to find interesting and informative books about the field. I came across a great post by The Cybersecurity Hub (who you should follow on <a href="https://www.instagram.com/thecybersecurityhub/?hl=en" target="_blank">IG</a> and <a href="https://www.linkedin.com/company/the-cyber-security-hub/" target="_blank">LinkedIn</a> ) with a list of great books recommended by security professionals. I purchased several, which I will write a similar post about, and the first one I chose to read before the end of the year was "Dawn of the Code War" by John P. Carlin.</p>

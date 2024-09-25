@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "How I Passed the AWS Solutions Architect Associate for Free"
+author: "Nate Roberts"
 date:   2020-11-27
 comments: true
+description: "I passed the AWS Solutions Architect Associate exam for free! Discover how I prepared using free resources, my experience with the exam, and tips to help you succeed without spending a dime."
+image: "awssaabadge.png"
 ---
 
 <p class="intro"><span class="dropcap">N</span>ow my second AWS certification that I have completed since July. I am enjoying the concepts that I am learning about through AWS and its robust tools in its ecosystem. AWS is already a major competitor in the cloud computing market. So, I am here to share my experience and how I got my AWS Solutions Architect Associate certification for TOTALLY free!</p>

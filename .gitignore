@@ -1,6 +1,7 @@
 _site
 .sass-cache
 .DS_Store
+.vscode
 .ruby-version
 node_modules
 test_run.sh
