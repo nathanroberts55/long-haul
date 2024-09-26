@@ -1,6 +1,6 @@
 ---
 layout     : post
-title      : "Consumer Commodities and Crime: The Product Perversion Problem"
+title      : "Commodities and Crime: The Product Perversion Problem"
 author     : "Nate Roberts"
 date       : 2024-09-24
 comments   : true
