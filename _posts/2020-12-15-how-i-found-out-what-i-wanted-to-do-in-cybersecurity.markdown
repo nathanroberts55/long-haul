@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "How I Found Out What I Wanted to do in Cybersecurity"
+author: "Nate Roberts"
 date:   2020-12-15
 comments: true
+description: "Discover how I found my path in cybersecurity! From social media networking to attending webinars and participating in Capture the Flag events, I’ll share the tips and tools that helped me navigate this exciting field."
+image: "cyberdomains.png"
 ---
 
 <p class="intro"><span class="dropcap">C</span>ybersecurity is a field that the exponential expansion of the internet has created a booming job market. As services, events, tools, and jobs migrate to the internet to become more efficient and connected, the ability to protect those things also grows in importance. Despite the umbrella term “cybersecurity” there are many parts or domains that make up the field.</p>

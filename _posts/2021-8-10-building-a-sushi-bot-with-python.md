@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "Building a Sushi Bot with Python"
+author: "Nate Roberts"
 date:   2021-8-11
 comments: true
+description: "I created a Sushi Bot with Python to automate my sushi orders and mix up my dining experience! Follow my journey from identifying the problem to deploying the bot on Heroku, with ideas for future updates and expansion."
+image:
 ---
 
 <p class="intro"><span class="dropcap">D</span>uring the height of the pandemic, many restaurants adopted food delivery services to cope with everyone being stuck at home. I soon developed the bi-weekly payday trend of ordering from local restaurants in support. This creative new adaptation also included a local sushi place that I had never been to BUT had an <em>amazing</em> lunchtime deal that came with free delivery! However, despite this rare find, it wouldn’t be me if I didn’t use python to automate this new payday tradition.</p>

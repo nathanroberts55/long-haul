@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "AWS CCP Exam Prep on a Budget"
+author: "Nate Roberts"
 date:   2020-11-06
 comments: true
+description: "I found a cost-effective way to prepare for and pass the AWS Certified Cloud Practitioner exam. Discover my tips and resources for budget-friendly exam prep, including free courses, practice exams, and more."
+image:
 ---
 
 <p class="intro"><span class="dropcap">A</span>WS is extremely in demand and a valuable skill to have on your resume as the world makes the shift to cloud-based computing. An easy way to get into the world of the cloud is to get the AWS Certified Cloud Practitioner certification. Recently, I was able to find an equally easy and cost-effective way to learn, prepare, and pass the exam. Now, I want to share what I have learned with others.</p>

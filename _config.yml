@@ -2,14 +2,17 @@ title: Nate Roberts Tech
 description: Blog where I write about my projects, studies, and anything else tech related I find interesting
 
 url: https://nathanroberts55.github.io/long-haul/
-baseurl: ""
-paginate_path: "blog/page:num/"
+baseurl: ''
+paginate_path: 'blog/page:num/'
 permalink: blog/:title/
+
+sass:
+  style: compressed
 
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]
-paginate: 4
+paginate: 5
 
 navigation:
   - title: Home
@@ -21,10 +24,9 @@ navigation:
 
 social:
   github: nathanroberts55
-  twitter: naterobertstech
   linkedin: naterobertstech
 
 google_analytics:
 
 disqus:
-    shortname: naterobertstech
+  shortname: naterobertstech

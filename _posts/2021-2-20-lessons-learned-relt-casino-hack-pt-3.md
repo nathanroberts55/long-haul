@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "Lessons Learned: Feeble Security Culture Disconnected from Business Objectives Webinar"
+author: "Nate Roberts"
 date:   2021-2-20
 comments: true
+description: "I attended a SANS Institute webinar on security culture and learned how crucial it is to align security with business objectives. Discover my key takeaways on building a strong security culture and why it’s essential for every organization."
+image:
 ---
 
 <p class="intro"><span class="dropcap">W</span>ithin the last year, I was introduced to the SANS Institute free live webinars they provide. Fortunately, they post these informative sessions on YouTube for people like me to enjoy after they are over. And yesterday, I was especially drawn to a webinar titled “Feeble Security Culture Disconnected from Business Objectives Webinar” in their Transformational Cybersecurity Leader series. It wasn’t the usual technical topic I usually would attend, but I learned an important and timely lesson.
