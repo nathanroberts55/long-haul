@@ -23,7 +23,7 @@ description: \"\"
 image: \"\"
 ---
 
-<p class=\"intro\"><span class=\"dropcap\"></span>
+<p class=\"intro\"><span class=\"dropcap\"></span></p>
 
 Hopefully, this was informative and helpful information. Feel free to leave a comment about any of the information, products, or questions that you have. Thanks for reading!
 "

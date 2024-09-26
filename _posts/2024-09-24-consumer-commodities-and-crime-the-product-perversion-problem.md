@@ -1,13 +1,33 @@
 ---
-layout: post
-title:  "Consumer Commodities and Crime: The Product Perversion Problem"
-author: "Nate Roberts"
-date:   2024-09-24
-comments: true
+layout     : post
+title      : "Consumer Commodities and Crime: The Product Perversion Problem"
+author     : "Nate Roberts"
+date       : 2024-09-24
+comments   : true
 description: ""
-image: ""
+image      : ""
 ---
 
-<p class="intro"><span class="dropcap"></span>
+<p class="intro"><span class="dropcap">R</span>ecently read a family member's Facebook post encouraging friends and family to delete the instant messaging app Telegram from their phone because it's Russian born CEO was arrested for enabling the alleged crimes being conducted on the app without intervention and lack of cooperation with authorities. So, I thought I'd weigh in on this topic as someone in the tech field with an interest in security.</p>
 
-Hopefully, this was informative and helpful information. Feel free to leave a comment about any of the information, products, or questions that you have. Thanks for reading!
+My first thought after reading that post was "Well... with that line of reasoning then you'll want to delete Facebook and get rid of your iPhone too". There are many services/products that are made to enhance the lives, reduce the workload, and protect the end user, only to have that same platform co-opted to serve mischievous means. But that introduces the question, do we remove these tools to prevent them from being used for crime?
+
+Let's look at some of the technology already mentioned in this article. Telegram was developed as a messaging app that would encrypt its user's messages end-to-end, meaning that only the sender and it's intended recipient would be able to see the message. It's major selling point being that even Telegram itself would not be able to decipher the messages, ensuring complete privacy. This drove adoption from privacy minded regular users all the way to citizen whose governments were using other messaging platforms to monitor their citizens. This technology enabled journalist to communicate with sources securely, whistleblowers to report their companies without retaliation, and more. Similarly, Apple did the same thing with the end-to-end encryption of it’s iMessages, as well as the entire phone. Meaning the data stored on your iPhone would only be accessible on your device and to you (assuming you don’t share it on iCloud). 
+
+However, the same technology that enables that level of safety, security, and privacy for those that are under the lens from those trying to silence their speech enables criminals to function free from the eyes of authorities. Telegram’s truly encrypted platform is accused of facilitating crimes ranging from child abuse to terrorism. And in the winter of 2015, after the death of 22 people from a mass shooting and attempted bombing in California, Apple told the FBI that not only can it not access the data of the iPhone 5C of the attackers but that it wouldn’t provide a backdoor for authorities. Both companies argued by providing methods of access to customer data for the “good guys” the access also potentially creates opportunities for abuse by hackers, companies, and governments that the encryption was intended to ptotect against. 
+
+So here lies the issue, products/services are created to enhance, improve, and protect the people they are made for only to have them utilized by bad actors to further their crimes. And this doesn’t only happen in the tech space either. Think about in pharmaceuticals, pain relievers/opioids were created to provide relief to cancer patients and have spawned a healthcare epidemic.  Or in the manufacturing/hobbyist realm with 3D printing. A revolution that allows makers of all sizes to create low-cost, resilient, east to repair products like medical delivery drones has also allowed the production of weapons (ghost guns) that are both untraceable and undetectable. Are the only solutions to these problems to stop innovation, research or progress? In my opinion, it can’t be.
+
+These products need to continue to innovate and at the same time are responsible for doing so with the consumers safety, privacy, and wellbeing in mind. And to a degree, technology has enabled the rapid expansion of each of those to billions of people in need. While at the same time, it has aided in the proliferation of global criminal networks which cannot be ignored. But I think to the car industry, where I think people almost unanimously agree to the utility of trunk spaces in vehicles while also understanding that trunks can be utilized in crimes such as kidnapping. But instead of removing trunks from cars, manufactures chose (or were required) to add release straps to the inside of trunks that allow people accidentally or coerced into trunks a way to escape safely. I think the same principle should be applied, when possible, to technology as well. Ensuring that the intended benefits can be freely available to those that need it and minimizing harm.
+
+So, like the way that a small minority of vehicle trunks are being used for kidnapping and 3D printers for ghost guns, a small amount of Apple’s and Telegram’s user base are using their platform for obfuscated criminal activity. Despite how incredibly unfortunate the abuses of these products/services are, there is a much larger amount of people who are healthier, more efficient, and safer because of much of the innovations of the last few decades.  This is the “price of privacy/security” and has enabled more positive protections/advantages for everyday users like you and I than detriments. Instead of letting bad actors "win" by removing these tools, I think that we need to continue to innovate with countermeasures that also make it harder for abuse of these well-intentioned systems.
+
+Hopefully, this was informative and helpful. Feel free to leave a comment about any of the information, products, or questions that you have. Thanks for reading!
+
+References:
+1. [Pavel Durov - Wikipedia](https://en.wikipedia.org/wiki/Pavel_Durov)
+2. [Telegram - Wikipedia](https://en.wikipedia.org/wiki/Telegram_(software))
+3. [French authorities arrest Telegram’s CEO](https://www.theverge.com/2024/8/24/24227672/telegram-ceo-pavel-durov-arrested-ceo)
+4. [Telegram’s CEO has taken a hands-off approach for years — now his luck might have run out](https://www.theverge.com/2024/8/27/24229935/telegram-pavel-durov-france-arrest-moderation-crime)
+5. [Apple Won't Help the FBI Unlock a Terrorist's iPhone. Here's Why It Shouldn't](https://www.inc.com/jason-aten/apple-wont-help-fbi-unlock-a-terrorists-iphone-heres-why-it-shouldnt.html)
+6. [Apple and Google Oppose Letting the Government Snoop on Your Private Messages](https://www.inc.com/jason-aten/apple-google-sign-open-letter-opposing-ghost-protocol-access-to-your-private-messages.html)
