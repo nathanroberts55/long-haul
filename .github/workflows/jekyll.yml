@@ -26,14 +26,6 @@ jobs:
           ruby-version: '3.3'
           bundler-cache: true
           cache-version: 1
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '16'
-      - name: Install dependencies
-        run: npm install
-      - name: Build CSS
-        run: npm run build:css
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

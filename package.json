@@ -5,7 +5,7 @@
 	"main": "gulpfile.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"build:css": "postcss ./src/styles.css -o ./_site/assets/styles.css"
+		"build:css": "postcss ./assets/css/style.css -o ./_site/assets/styles.css"
 	},
 	"author": "Brian Maier Jr.",
 	"license": "MIT",
@@ -20,6 +20,7 @@
 		"gulp-cssnano": "^2.1.2",
 		"gulp-sass": "^5.1.0",
 		"postcss": "^8.4.47",
+		"postcss-cli": "^11.0.0",
 		"postcss-import": "^16.1.0",
 		"tailwindcss": "^3.4.13"
 	},
