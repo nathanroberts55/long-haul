@@ -13,12 +13,7 @@
 		"@tailwindcss/typography": "^0.5.15",
 		"autoprefixer": "^10.4.20",
 		"browser-sync": "^3.0.2",
-		"cssnano": "^7.0.6",
 		"daisyui": "^4.12.10",
-		"gulp": "^4.0.2",
-		"gulp-autoprefixer": "8.0.0",
-		"gulp-cssnano": "^2.1.2",
-		"gulp-sass": "^5.1.0",
 		"postcss": "^8.4.47",
 		"postcss-cli": "^11.0.0",
 		"postcss-import": "^16.1.0",
@@ -30,7 +25,6 @@
 	},
 	"keywords": [
 		"jekyll",
-		"gulp",
 		"sass",
 		"browsersync"
 	]

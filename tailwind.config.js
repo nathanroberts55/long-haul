@@ -6,9 +6,5 @@ module.exports = {
 		'./_posts/*.md',
 		'./*.html',
 	],
-	theme: {
-		extend: {},
-	},
-	variants: {},
 	plugins: [require('@tailwindcss/typography'), require('daisyui')],
 };
