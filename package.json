@@ -4,7 +4,8 @@
 	"description": "A minimal, type-focused Jekyll theme. ",
 	"main": "gulpfile.js",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build:css": "postcss ./src/styles.css -o ./_site/assets/styles.css"
 	},
 	"author": "Brian Maier Jr.",
 	"license": "MIT",
