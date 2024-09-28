@@ -1,20 +1,16 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
-<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" <![endif]-->
-<!--[if IE 8]><html class="no-js lt-ie9" <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+<html lang="en">
 
 {% include head.html %}
 
-<body>
+<body class="flex flex-col h-screen">
 
-   {% include header.html %}
+   {% include navbar.html %}
 
-   <div class="content">
-      <div class="container">
-         {{ content }}
-      </div>
-   </div><!-- end .content -->
+   <main class="container mx-auto flex grow">
+      {{ content }}
+   </main>
 
    {% include footer.html %}
    {% include scripts.html %}
