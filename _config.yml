@@ -6,13 +6,15 @@ baseurl: ''
 paginate_path: 'blog/page:num/'
 permalink: blog/:title/
 
-sass:
-  style: compressed
-
 markdown: kramdown
 highlighter: rouge
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-postcss
 paginate: 5
+
+postcss:
+  cache: false
 
 navigation:
   - title: Home

@@ -15,7 +15,7 @@ image:
 
 I recently finished reading Kevin Mitnick’s “The Art of Deception,” which is full of stories about people working in organizations that we exploited through social engineering attacks. One of the main countermeasures Mitnick preached throughout the book was the importance of security and awareness training to protect the business and work they conduct. It was also convenient that I finished reading the book last week that the [SANS Institute]( https://www.sans.org/) has just put out the recording from the webcast presented by Lance Spitzner and Russell Eubanks.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/zgbjSGY4svM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<iframe class="mx-auto w-full aspect-video" src="https://www.youtube.com/embed/zgbjSGY4svM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 During this webinar, they discuss that there have been massive strides in technology security over the last two decades, however, not in _human_ security. Every organization should understand they can buy all the best security tools globally. Still, it won’t matter if there isn’t a strong _security culture_.
 
@@ -30,7 +30,7 @@ I believe this was a critical component that was missing from the Mitnick book, 
 
 For training and policies to be effective, all members, not just security personnel, need to be committed to security. So Spitzner and Eubanks discussed how they built on research conducted by multiple disciplines like the communications, human resources, and leadership fields to build more robust security cultures. One of the main methods the presenters brought to the presentation from their studies was using the Golden Circle from Simon Sinek.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/qp0HIF3SfI4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<iframe class="mx-auto w-full aspect-video" src="https://www.youtube.com/embed/qp0HIF3SfI4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The Golden Circle method explains the why, then how, and finally the what. One of the issues Spitzner mentions during the course is how the "curse of knowledge" in the security community keeps us (especially the more technical members) from explaining concepts in ways that reach and our audience understands. The Golden Circle method breaks down an easy way to explain why, how, and what a new security policy or product is and its impact on their area of the organization. That makes it personal, brings it to a level that is easy to understand, and shows the unique benefits/incentive to follow the new procedures.
 
@@ -43,6 +43,6 @@ As a technical security member, I think this was an important lesson to learn. A
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Join us for our 4 part series based on the NEW Transformational Cybersecurity Leader Triad. <br><br>Part 1 - archive: <a href="https://t.co/3fNLOFEo0L">https://t.co/3fNLOFEo0L</a><br>Part 2 - archive: <a href="https://t.co/mlGKItbGLK">https://t.co/mlGKItbGLK</a><br>Part 3 - archive: <a href="https://t.co/58MyVL6ESd">https://t.co/58MyVL6ESd</a><br>Part 4: <a href="https://t.co/GYYMF8dZSZ">https://t.co/GYYMF8dZSZ</a> <a href="https://t.co/L7zFAnmdLu">pic.twitter.com/L7zFAnmdLu</a></p>&mdash; SANS Institute (@SANSInstitute) <a href="https://twitter.com/SANSInstitute/status/1363159012569669640?ref_src=twsrc%5Etfw">February 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-This series was a fantastic so far, and I'm excited to see the last installment on Wednesday, Feb. 24th at 12 PM EST for anyone wondering if you would like to see the previous lessons in the [SANS Cybersecurity Leadership - Transformational Cybersecurity Leader Triad Series] (https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bio1vV47Jalr8OBhrLX3Jk) playlist feel free to check it out!
+This series was a fantastic so far, and I'm excited to see the last installment on Wednesday, Feb. 24th at 12 PM EST for anyone wondering if you would like to see the previous lessons in the [SANS Cybersecurity Leadership - Transformational Cybersecurity Leader Triad Series](https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bio1vV47Jalr8OBhrLX3Jk) playlist feel free to check it out!
 
 Thank you for taking the time to read this article. I hope you found something valuable! If you have any questions, comments, or concerns, please leave a comment on this article or send me a message on my [Contact]( https://naterobertstech.com/contact/) page. To keep up with the other stuff, I am learning about and discovering, follow me on Twitter [@NateRobertsTech]( https://twitter.com/naterobertstech).

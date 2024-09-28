@@ -28,7 +28,7 @@ The first thing I wanted to address was the lack of variety in my orders. Becaus
 
 So, to fix the variety issue, I created a file with all the lunch menu rolls for the program to read. Then another file with the last rolls that I ordered. The script would read in from the menu file and then the last ordered file. The bot removed recently ordered items from the menu to ensure I got new rolls. Then, I used the random module to randomly select six rolls (which is how many I get each payday) from the remaining rolls on the menu.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Rf9ShctbZZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe class="w-full aspect-video" src="https://www.youtube.com/embed/Rf9ShctbZZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Next, I wanted to solve the issue of getting the order in quickly. Initially, I was going to have the program run bi-weekly on the startup of my computer and post it to the console. However, I do not like the dependence on a singular computer for the program to run. Then my AWS training kicked in, and I decided to run it in a cloud solution. My cloud solution of choice is [Heroku](https://www.heroku.com/), which is a SaaS platform ran on AWS where I could upload my script where it would always be running whenever I needed it. Once deployed in the cloud, I had the script run every payday at 10:55 AM and text me the order it has created. The notification served as a reminder AND eliminated the need for me to make the decision.
 
@@ -40,7 +40,7 @@ After that initial deployment, the bot worked well, but there were things that I
 
 Originally I had the bot send me a message at 10:55 PM every other Friday. But one day I wanted to order sushi on a non-payday, but the bot wasn’t scheduled, and I had no way to communicate with it. However, since I had to create a google email account for the bot to send messages from, I decided to use the email to communicate with the bot. I changed the bot to listen to the email for an email that has “Hit Me” in the body, will reply to the sender with the six sushi rolls. This addition opened the tool up to my friends and me to use the “service” whenever we wanted to get sushi.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/6DD4IOHhNYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe class="w-full aspect-video" src="https://www.youtube.com/embed/6DD4IOHhNYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 #### Future Updates
 
