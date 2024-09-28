@@ -5,7 +5,4 @@ gem "jekyll-paginate"
 gem "support-for"
 gem "http_parser"
 gem "webrick", "~> 1.7"
- 
-group :jekyll_plugins do
-    gem 'jekyll-postcss'
-end
+gem 'jekyll-postcss'
