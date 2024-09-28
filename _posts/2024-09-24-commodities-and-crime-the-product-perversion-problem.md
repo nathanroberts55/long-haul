@@ -5,7 +5,6 @@ author     : "Nate Roberts"
 date       : 2024-09-24
 comments   : true
 description: "Exploring the dilemma of product misuse, this post delves into how a small percentage of users can exploit consumer technologies for criminal activities. From Telegram to Apple, discover why discontinuing these innovations isn’t the solution and how we can balance progress with safety."
-image      : ""
 ---
 
 <p class="intro"><span class="dropcap">R</span>ecently read a family member's Facebook post encouraging friends and family to delete the instant messaging app Telegram from their phone because it's Russian born CEO was arrested for enabling the alleged crimes being conducted on the app without intervention and lack of cooperation with authorities. So, I thought I'd weigh in on this topic as someone in the tech field with an interest in security.</p>
