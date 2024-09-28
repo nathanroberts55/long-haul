@@ -86,7 +86,7 @@ PLATFORMS
 
 DEPENDENCIES
   http_parser
-  jekyll
+  jekyll (~> 4.2)
   jekyll-paginate
   jekyll-postcss
   support-for
